@@ -7,7 +7,7 @@ const Hero = () => {
   const handleDownload = () => {
     // Using the public URL of the resume
     const link = document.createElement('a');
-    link.href = '../resume.pdf';
+    link.href = '/resume.pdf';
     link.download = 'Nikita_Kumari_Resume.pdf';
     document.body.appendChild(link);
     link.click();
