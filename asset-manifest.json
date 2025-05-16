@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-Nikita/static/css/main.89a374d5.css",
+    "main.js": "/portfolio-Nikita/static/js/main.933f40fa.js",
+    "index.html": "/portfolio-Nikita/index.html",
+    "main.89a374d5.css.map": "/portfolio-Nikita/static/css/main.89a374d5.css.map",
+    "main.933f40fa.js.map": "/portfolio-Nikita/static/js/main.933f40fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a374d5.css",
+    "static/js/main.933f40fa.js"
+  ]
+}
